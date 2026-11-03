@@ -1,3 +1,6 @@
 [submodule "kiss"]
 	path = kiss
 	url = https://github.com/sohcato/kiss
+[submodule "curtain-call"]
+	path = curtain-call
+	url = https://github.com/Serrindipity/curtain-call.git
